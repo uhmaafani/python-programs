@@ -13,7 +13,7 @@ def chatbot():
     return message
 
 
-st.title("OfferFeast")
+st.title("OfferFest")
 
 
 def response_api(message):
